@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="mariadb-java-client-3.1.0-sources">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.0.8-bin-g(1)/mysql-connector-j-8.0.31.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.0.8-bin-g(1)/mysql-connector-java-5.0.8-bin-g(1).jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.0.8-bin-g(1)/mysql-connector-java-5.0.8-bin-g.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java-5.0.8-bin-g(1)/mariadb-java-client-3.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
